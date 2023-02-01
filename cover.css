@@ -1,0 +1,20 @@
+body{
+  background-image: url('Cover.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+}
+nav{
+height: 300px;
+}
+.titlecover{
+font-size: 100px;
+}
+.textbackground{
+background-color:purple;
+color:white;
+font-size: 25px;
+margin-left:50px;
+margin-right:50px;
+}
